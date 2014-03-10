@@ -4,6 +4,15 @@ Credits go to Evervolv, and spezi77 for bravo source trees
 and other modifications needed for CM compatibility.
 (default.xml points to specific repos that were used)
 
+The following commits must also be merged in order to build for the desire...
+
+frameworks_native:
+[1](https://github.com/spezi77/android_frameworks_native/commit/8e9180dcef377dcc27722278dd5b8af29dbd2e53)
+[2](https://github.com/spezi77/android_frameworks_native/commit/ac1ddee7beffa83bbc993b4bc369b479a02ae183)
+
+frameworks_opt_telephony
+[1](https://github.com/spezi77/android_frameworks_opt_telephony/commit/0a337fe3d045111b72eb84ad34a7f41068b72113)
+
 Getting Started
 ---------------
 
